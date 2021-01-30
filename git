@@ -1,0 +1,8 @@
+git remove -v
+git remote add ...link
+git status
+git remote -v
+cat index.html
+git push
+git push mygithub
+git push mygithub master
